@@ -1,7 +1,7 @@
 import socket
 import threading
 
-target_ip = "192.168.100.54"  # Replace with your Kali VM's IP
+target_ip = "192.168.100.54"  # target IP adress
 target_port = 8080
 
 def attack():
