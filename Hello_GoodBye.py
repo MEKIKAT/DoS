@@ -1,7 +1,7 @@
 import socket
 import threading
 
-target_ip = "192.168.100.54"  # target IP adress
+target_ip = ""  # target IP adress
 target_port = 8080
 
 def attack():
